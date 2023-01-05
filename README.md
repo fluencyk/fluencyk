@@ -1,5 +1,8 @@
 ## To the reviewer from the university's admission committee:
-# Hey, give me an opportunity, please! And thanks for your kind visiting! ;D
+# Hey, give me an opportunity because I can cook very delicious Chinese cuisines for you!
+
+And thanks for your kind visiting! ;D
+
 - 👋 Hi, I’m @fluencyk aka Yujun Kong, call me Yujun or Eugene. I am now a Master's student at Stevens Tech in the US.
 - 👀 I’m interested in Software Engineering, Application System Architecture, Computer Science, Human Computer Interactions, Usability Testing Research, User Experience Design, and Digital Art. Moreover, I also especially doing the research of the technology in Environmental Computation - a mutation of Smart City but far advanced.
 - 🌱 I’m currently learning programming fundamentals, data structures / algo, framework design and implementation in Java, Python, and C, and also practicing other frontend language such as JavaScript, HTML, CSS or coding frameworks such as React, Vue, etc.
