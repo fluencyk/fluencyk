@@ -6,9 +6,10 @@
 - 💞️ I’m looking to collaborate on software development with anyone possible.
 - 📫 How to reach me: 244898831@qq.com, ykong3@stevens.edu, 1-201-736-2265 (US Phone Number)
 ### To Do List:
-#### 1. Refactor Coursework SSW-555 Projects
-#### 2. Refactor Coursework SSW-695 Project 'C-Buy'
-#### 3. Project NYC HappyNewYear-Night Times Square Population-Entry Management App
+#### 1. DadaData A Data Gathering Toolset
+#### 2. Refactor Coursework SSW-555 Projects
+#### 3. Refactor Coursework SSW-695 Project 'C-Buy'
+#### 4. Project NYC HappyNewYear-Night Times Square Population-Entry Management App
 <!---
 fluencyk/fluencyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
