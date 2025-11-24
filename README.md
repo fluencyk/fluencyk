@@ -28,7 +28,7 @@
 
 ### Research Metrics
 <p>
-  <img src="https://img.shields.io/badge/Students_Influenced-3,000%2B-blue"/>
+  <img src="https://img.shields.io/badge/Students_Influenced-1,000%2B-blue"/>
   <img src="https://img.shields.io/badge/Cognitive_Load_Reduction-65%25-green"/>
   <img src="https://img.shields.io/badge/Grading_Time_Reduction-60%25-orange"/>
   <img src="https://img.shields.io/badge/Papers_In_Progress-3-purple"/>
