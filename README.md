@@ -5,7 +5,7 @@ Now Stevens MS CS · Researching **generative shared agency** in education & mob
 
 ## 🔥 Featured Projects
 
-[![RafFlow](https://img.shields.io/badge/RafFlow-3,000%2B_students-61DAFB?style=flat&logo=react)](https://raflow.vercel.app) 
+[![RafFlow](https://img.shields.io/badge/RafFlow-1,000%2B_students-61DAFB?style=flat&logo=react)](https://raflow.vercel.app) 
 [![DouFunDriving](https://img.shields.io/badge/DouFunDriving-L3%2B_co--driving-ff69b4)](https://doufundriving.vercel.app) 
 [![RAIDScript](https://img.shields.io/badge/RAIDScript-zero--code_DSL-brightgreen)](https://github.com/fluencyk/RAIDScript)
 
