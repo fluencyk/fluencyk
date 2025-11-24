@@ -7,7 +7,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,figma,supabase,vercel,docker,aws,git,github,blender,ae,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,bootstrap,angular,jquery,matplotlib,comfyui,spacy,streamlit,git,github,vultr,nodejs,circleci,openvpn,figma,axure,visio,ps,illustrator&perline=12&theme=light" alt="Skills" />
   </a>
 </p>
 
