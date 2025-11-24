@@ -38,12 +38,12 @@
 
 **Working on**: Interactive LLM clarification for MiniLLM vs ChatGPT (cost ↓99.93%)
 
-**Creatively** Authoring My Papers, at every cafe in cities
+**Authoring**: My Papers, at every cafe in cities
 
 **With**: My poodle, every day
 
 <div style="margin-top: 40px; color: #88c0ff;">
-  ykong3@stevens.edu · Jersey City, NJ · Applying Cornell Tech InfoSci PhD 2026
+  ykong3@stevens.edu · Jersey City, NJ · 244898831@qq.com
 </div>
 
 </div>
