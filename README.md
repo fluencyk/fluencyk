@@ -1,6 +1,19 @@
-<div style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:-1;">
-  <img src="_res/lighting_waves.gif" style="width:100%;height:100%;object-fit:cover;">
-</div>
+<div style="background: url('_res/lighting_waves.gif') center/cover no-repeat; 
+            padding: 60px 40px 80px; 
+            border-radius: 16px; 
+            box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+            backdrop-filter: blur(8px);
+            background-attachment: fixed;
+            min-height: 100vh;
+            margin: -20px -40px 40px;
+            position: relative;">
+
+<div style="background: rgba(13,27,42,0.78); 
+            padding: 40px 50px; 
+            border-radius: 16px; 
+            backdrop-filter: blur(12px);
+            max-width: 1000px; 
+            margin: 0 auto;">
 
 # Hi, I'm Yujun Kong 👋
 
@@ -19,3 +32,6 @@ Now Stevens MS CS · Researching **generative shared agency** in education & mob
 
 ## 🔗 Connect
 ykong3@stevens.edu · Jersey City, NJ · New York City
+
+</div>
+</div>
