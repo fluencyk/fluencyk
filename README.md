@@ -1,5 +1,23 @@
-<div class="animated-bg"></div>
-<link rel="stylesheet" href="style.css">
+<div style="position:relative;width:100%;height:500px;overflow:hidden;">
+  <svg viewBox="0 0 1920 500" style="position:absolute;top:0;left:0;width:100%;height:100%;">
+    <rect width="100%" height="100%" fill="#0d1b2a"/>
+    <defs>
+      <radialGradient id="g">
+        <stop offset="10%" stop-color="#415a77"/>
+        <stop offset="95%" stop-color="#0d1b2a"/>
+      </radialGradient>
+    </defs>
+    <circle cx="10%" cy="20%" r="80" fill="url(#g)" opacity="0.3">
+      <animate attributeName="cx" values="10%;90%;10%" dur="20s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90%" cy="70%" r="120" fill="url(#g)" opacity="0.2">
+      <animate attributeName="cy" values="70%;30%;70%" dur="15s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50%" cy="50%" r="60" fill="url(#g)" opacity="0.4">
+      <animate attributeName="r" values="60;100;60" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</div>
 
 # Hi, I'm Yujun Kong 👋
 
