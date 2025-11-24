@@ -1,3 +1,6 @@
+<div class="animated-bg"></div>
+<link rel="stylesheet" href="style.css">
+
 # Hi, I'm Yujun Kong 👋
 
 Former internet veteran · 20 years building systems for 100M+ users  
