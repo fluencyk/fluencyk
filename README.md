@@ -2,7 +2,7 @@
 
 # Yujun Kong
 
-**Next-Gen HCI × AI-powered SE × Socio Computing & Complex Info Systems**  
+**Next-Gen HCI × AI-powered SE × Social Computing x Environmental Computation x High-Perf Info Systems**  
 20yr Internet Apps Dev Veteran → Stevens MS CS '26 and MS SE '23 → PhD Applicant 2026
 
 <p style="margin: 20px 0; font-size: 1.1em; color: #a0d2ff;">
@@ -34,10 +34,13 @@
   <img src="https://img.shields.io/badge/Papers_In_Progress-3-purple"/>
 </p>
 
-### Currently
-- **Reading**: *Designing the User Interface* (Shneiderman, 6th Ed)  
-- **Working on**: Interactive LLM clarification for MiniLLM vs ChatGPT (cost ↓99.93%)  
-- **With**: My poodle, every day
+### Currently 
+
+**Working on**: Interactive LLM clarification for MiniLLM vs ChatGPT (cost ↓99.93%)
+
+**Creatively** Authoring My Papers, at every cafe in cities
+
+**With**: My poodle, every day
 
 <div style="margin-top: 40px; color: #88c0ff;">
   ykong3@stevens.edu · Jersey City, NJ · Applying Cornell Tech InfoSci PhD 2026
