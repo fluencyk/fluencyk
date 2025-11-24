@@ -2,15 +2,15 @@
 
 # Yujun Kong
 
-**HCI × AIGC × Socio-Technical Systems**  
-20yr Internet Veteran → Stevens MS CS '26 → **Cornell Tech InfoSci PhD Applicant 2026**
+**Next-Gen HCI × AI-powered SE × Socio Computing & Complex Info Systems**  
+20yr Internet Apps Dev Veteran → Stevens MS CS '26 and MS SE '23 → PhD Applicant 2026
 
 <p style="margin: 20px 0; font-size: 1.1em; color: #a0d2ff;">
   Former systems builder for 100M+ users · Now researching <strong>Generative Shared Agency</strong> in education & mobility
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,bootstrap,angular,jquery,matplotlib,comfyui,spacy,streamlit,git,github,vultr,nodejs,circleci,openvpn,figma,axure,visio,ps,illustrator&perline=12&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,js,react,bootstrap,angular,jquery,git,github,nodejs,docker,figma,ps,ai&theme=light" />
 </p>
 
 ### Core Research & Projects
