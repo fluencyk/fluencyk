@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,js,react,bootstrap,angular,jquery,git,github,nodejs,docker,figma,ps,ai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,python,java,html,js,react,bootstrap,angular,jquery,git,github,nodejs,docker,figma,ps,ai&theme=dark" />
 </p>
 
 ### Core Research & Projects
