@@ -38,7 +38,7 @@
 
 **Working on**: Interactive LLM clarification for MiniLLM vs ChatGPT (cost ↓99.93%)
 
-**Authoring**: My Papers, at every cafe in cities
+**Authoring**: My research papers, at every cafe in cities
 
 **With**: My poodle, every day
 
