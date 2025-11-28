@@ -2,7 +2,7 @@
 
 # Yujun Kong
 
-**Next-Gen HCI × AI-powered SE × Social Computing x Environmental Computation x High-Perf Info Systems**  
+**Next-Gen HCI × AI 4 Software Engineering x NLP-augmented Script-DSL × Social Computing x Environmental Computation Systems**  
 20yr Internet Apps Dev Veteran → Stevens MS CS '26 and MS SE '23 → PhD Applicant 2026
 
 <p style="margin: 20px 0; font-size: 1.1em; color: #a0d2ff;">
