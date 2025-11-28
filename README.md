@@ -2,18 +2,18 @@
 
 # Yujun Kong
 
-**Next-Gen HCI × AI 4 Software Engineering x NLP-augmented Script-DSL × Social Computing x Environmental Computation Systems**  
-20yr Internet Apps Dev Veteran → Stevens MS CS '26 and MS SE '23 → PhD Applicant 2026
+**Next-Gen HCI × AI for SE x AI-augmented NLP-Script-DSL × Social Computing x Environmental Computation Systems**  
+20yr Internet-Apps Designer/Developer → Stevens' Current MS-CS '26 and Former MS-SE '23 → PhD Applicant 2026
 
 <p style="margin: 20px 0; font-size: 1.1em; color: #a0d2ff;">
-  Former systems builder for 100M+ users · Now researching <strong>Generative Shared Agency</strong> in education & mobility
+  Former systems builder for 100M+ users · Now researching <strong>Generative Shared Agency</strong> in Education / Mobility / DSL / EnvCom
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,python,eclipse,java,kotlin,vim,html,css,tailwind,js,react,bootstrap,angular,jquery,git,github,nodejs,docker,flask,figma,ai,ps,latex&theme=dark&perline=12" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,python,eclipse,java,html,css,tailwind,js,react,bootstrap,angular,jquery,git,github,postman,nodejs,jenkins,flask,figma,ai,ps,ae,latex&theme=dark&perline=12" />
 </p>
 
-### Core Research & Projects
+### Research & Projects
 <table><tr>
 <td align="center" width="33%">
   <a href="https://raflow.vercel.app"><img src="https://img.shields.io/badge/RafFlow-3,000%2B_students-61DAFB?style=for-the-badge&logo=react&logoColor=white"/><br><b>RafFlow</b><br>Generative Learning Studio<br>Faculty grading ↓60%</a>
